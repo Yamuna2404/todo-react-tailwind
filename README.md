@@ -7,9 +7,8 @@ A simple, stylish, and responsive task manager built with **React** and **Tailwi
 
 ![Preview](./image/todo%20app.png)
 
----
-
 This project is a modern, single-page application designed to help users track and manage their daily tasks efficiently...
+---
 
 ## ✨ Key Features
 
